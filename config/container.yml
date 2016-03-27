@@ -1,0 +1,7 @@
+---
+prefix: fishyard
+component: alpine
+build_tag: 0.2.1
+
+from_image: alpine
+from_version: 3.2

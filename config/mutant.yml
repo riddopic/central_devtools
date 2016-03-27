@@ -1,0 +1,4 @@
+name: central
+namespace: Central
+ignore_subjects:
+- "Central::Devtools::Flay::Scale#flay"
